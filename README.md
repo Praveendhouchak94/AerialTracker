@@ -14,9 +14,12 @@ The system is designed to address key challenges in drone-based computer vision:
 
 ## 🎥 Output Visualization
 
-![Demo](aerial_track/outputs/uav0000086_00000_v_output_gif.gif)
+> Note: Outputs are stored in folders `D:\AerialTracker\aerial_track\outputs`
 
-![Demo](aerial_track/outputs/uav0000339_00001_v_output_gif.gif)
+
+![Demo](assets/uav0000086_00000_v_output_gif.gif)
+
+![Demo](assets/uav0000339_00001_v_output_gif.gif)
 
 The output video includes:
 
@@ -25,7 +28,11 @@ The output video includes:
 - Trajectory tail (last N positions)  
 - Smooth and consistent tracking across frames  
 
----
+
+## Block Diagram
+
+![image](assets/block_diagram.jpg)
+
 
 ## 🛠️ Installation
 
@@ -53,8 +60,6 @@ options:
     -c, --device {cpu,cuda} to run the models on: 'cpu' or 'cuda' '<cpu>'
 
 ```
-
-
 
 ---
 
