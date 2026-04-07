@@ -110,7 +110,7 @@ To reduce ID switching caused by occlusions and camera motion:
 
 | Metric    |   Value  |
 |-----------|----------|
-|    FPS    | ~0.6 FPS |
+|    FPS    | ~ 1 FPS |
 |  Hardware |   CPU    |
 
 > Note: Performance is measured on CPU. FPS can be significantly improved using GPU or edge accelerators.
