@@ -31,7 +31,7 @@ The output video includes:
 
 ## Block Diagram
 
-![image](assets/block_diagram.jpg)
+![image](assets/block_diagram.jpeg)
 
 
 ## 🛠️ Installation
