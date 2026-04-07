@@ -1,0 +1,46 @@
+# 🚫 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pyc
+
+# 🚫 Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# 🚫 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🚫 Logs
+*.log
+
+# 🚫 OS files
+.DS_Store
+Thumbs.db
+
+# 🚫 IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🚫 Build / distribution
+build/
+dist/
+*.egg-info/
+
+
+# 🚫 Dataset / large files
+data/
+datasets/
+*.zip
+*.tar
+*.gz
+
+*.tmp
+*.cache
+
+.env
